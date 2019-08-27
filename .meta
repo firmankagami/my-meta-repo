@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "sub_meta_repo1": "git@github.com:firmankagami/sub_meta_repo1.git",
+    "sub_meta_repo2": "git@github.com:firmankagami/sub_meta_repo2.git",
+    "sub_meta_repo3": "git@github.com:firmankagami/sub_meta_repo3.git"
+  }
+}
